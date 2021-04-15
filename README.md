@@ -1,1 +1,1 @@
-# MyProfile.github
+# myprofile.github.io
